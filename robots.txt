@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giuseppe-paparo.it/sitemap.xml
